@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-import { HomePageComponent } from './componentes/homepage/homepage.component';
+import { HomePageComponent } from './componentes/home-page/home-page.component';
 import { LoginPageComponent } from './componentes/login-page/login-page.component';
 import { RegisterPageComponent } from './componentes/register-page/register-page.component';
 import { PrivadoPageComponent } from './componentes/privado-page/privado-page.component';
