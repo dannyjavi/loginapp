@@ -23,7 +23,6 @@ export class RegisterPageComponent implements OnInit {
       this.router.navigate(['/privado']);       
     }).catch( (err) => {
       console.log(err);
-      
-    });
+      });
   }
 }
